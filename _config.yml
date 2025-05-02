@@ -1,0 +1,8 @@
+title: 78 Shop
+description: Online Shop
+show_downloads: true
+url: ""
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+theme: minima
