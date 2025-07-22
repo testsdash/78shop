@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
+title: "Эрэгтэй дотуур өмд"
 categories: junk
 author:
 - Bart Simpson
