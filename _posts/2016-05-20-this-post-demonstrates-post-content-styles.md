@@ -114,17 +114,11 @@ Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet b
 
 ### Tables
 
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+ 1 XL    |  2 XL       | 3 XL      | 4 XL  
+-------- | -----------| --------- | ---------|
+60-70кг  | 70-80кг    | 80-90кг   | 90-100кг |
 
 
-Title 1 | Title 2 | Title 3 | Title 4
---- | --- | --- | ---
-lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
-lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
-lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
-lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
+ 5 XL     |   6 XL       | 3 XL      | 4 XL  
+--------  | -----------  |  -------- | ---------|
+100-110кг | 110-120кг    | 120-130кг | 90-100кг |
